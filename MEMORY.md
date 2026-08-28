@@ -1,0 +1,1 @@
+- [OpenAPI Zod compatibility](openapi-zod-compatibility.md) — keep generated schemas compatible with the workspace's installed Zod major version.
